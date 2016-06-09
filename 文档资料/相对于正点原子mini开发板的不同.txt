@@ -1,0 +1,12 @@
+1、没有屏幕
+2、led引脚改为pb10，pb11
+3、nrf24l01引脚一个改为pb0
+4、没有eeprom-iic的24c02，当引出iic
+5、加入板载stlink
+6、加入sdio的sd卡座
+7、加入sep8266焊盘并引出所有引脚
+8、加入iis接口及cs4344 音频24bit adc芯片
+9、空白处随手放了个三色5050
+10、加入电源输出引脚
+
+https://stm32-posystorage.rhcloud.com

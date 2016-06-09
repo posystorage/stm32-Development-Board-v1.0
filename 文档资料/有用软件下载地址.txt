@@ -1,0 +1,9 @@
+1、gd32资料 http://gd32mcu.21ic.com/documents（要注册账号）
+2、正点原子资料http://www.openedv.com/thread-13912-1-1.html
+3、STM32 ST-LINK Utility正规军：http://www.st.com/web/catalog/tools/FM147/SC1887/PF258168
+			汉化：http://bbs.mydigit.cn/read.php?tid=1149701
+4、STMFlashLoader Demo：http://www.st.com/web/catalog/tools/FM147/CL1794/SC961/SS1743/PF257525
+5、http://www.stmcu.org/document/list/index/category-939
+6、STVP :http://www.st.com/web/cn/catalog/tools/PF210568
+7、keil：正点原子的资料包里有a盘/软件资料/软件
+8、https://stm32-posystorage.rhcloud.com

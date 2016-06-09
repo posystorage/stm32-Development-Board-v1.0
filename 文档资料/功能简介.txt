@@ -1,0 +1,35 @@
+*stm32f103rxxx
+
+*板载stlink
+
+*引出所有引脚
+
+*ch340自动下载
+
+*TJA1050T can接口芯片
+
+*CS4344 i2s接口芯片
+
+*ESP8266-12f接口并引出所有引脚
+
+*sdio接口sd卡槽+spi接口sd卡槽
+
+*NRF24l01插口
+
+*25Q32 flash芯片
+
+*3keys+3leds
+
+*ps2+usb+i2c+i2s+dac
+
+*三色5050led
+
+*板载stlink
+
+https://stm32-posystorage.rhcloud.com
+
+
+
+
+
+
